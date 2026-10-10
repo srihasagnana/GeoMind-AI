@@ -1,0 +1,5 @@
+Transition,Pixels,Percentage
+Non-water → Non-water,161940,99.21
+Non-water → Water,0,0.0
+Water → Non-water,872,0.53
+Water → Water,414,0.25

@@ -1,0 +1,4 @@
+Model,Land Dice,Land IoU,Permanent Water Dice,Permanent Water IoU,Flood Dice,Flood IoU
+U-Net,0.9486,0.9023,0.0038,0.0019,0.1503,0.0813
+SegFormer Original,0.9677,0.9374,0.5695,0.3981,0.2704,0.1563
+SegFormer Weighted,0.9676,0.9373,0.5195,0.3509,0.3486,0.2111
