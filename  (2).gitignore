@@ -1,0 +1,8 @@
+
+# Large datasets and generated patches
+Sen1Floods11/
+Minority_Patches/
+
+# Python and Jupyter temporary files
+__pycache__/
+.ipynb_checkpoints/

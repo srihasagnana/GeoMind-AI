@@ -1,0 +1,4 @@
+Class,Validation Dice,Validation IoU,Test Dice,Test IoU
+Land,0.9602,0.9235,0.9608,0.9245
+Permanent Water,0.6515,0.4831,0.6866,0.5228
+Flood Water,0.4619,0.3003,0.4451,0.2863
