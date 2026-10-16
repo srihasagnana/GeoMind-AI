@@ -1,0 +1,11 @@
+chip,region,pixels,sefs,top_evidence,mask_type
+Ghana_406026,11,75,63.82696914672853,vegetation_loss,predicted
+Ghana_406026,12,800,60.29523031711579,new_water_MNDWI,predicted
+Ghana_406026,17,243,57.970077216379934,vegetation_loss,predicted
+Ghana_866994,1,84,57.953355880010704,vegetation_loss,predicted
+Ghana_866994,4,207,53.283499657819824,HAND,predicted
+Ghana_866994,5,142,51.05333180494712,HAND,predicted
+Ghana_866994,7,57,53.0900654039885,builtup_NDBI,predicted
+Ghana_866994,8,243,48.70261612252443,slope,predicted
+Ghana_866994,24,127,37.85507502518301,new_water_MNDWI,predicted
+Ghana_866994,29,121,41.428147465729516,builtup_NDBI,predicted
